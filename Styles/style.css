@@ -13,9 +13,6 @@
         /* Accent */
         --a1: #F7D353;
         --a2: #E5C03C;
-    
-        /* Shadow */
-        --shadow: 0px 2px 10px -8px rgba(0, 0, 0, 0.2);
 
     /* Fontes */
         /* Title */
@@ -193,8 +190,6 @@ h2 {
 .footer-bg {
     background-color: var(--b3);
 }
-
-.footer-bg
 
 .footer {
     padding-top: 50px;
